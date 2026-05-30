@@ -154,6 +154,6 @@ jupyter lab
 
 ## 👤 Author
 
-**Akki** — Data Analyst in training  
+**Akash** — Data Analyst in training  
 Project built from scratch as part of a structured data analytics portfolio.  
 Dataset: Olist Brazilian E-Commerce (Kaggle) · Tools: Python, Pandas, Matplotlib, Seaborn
