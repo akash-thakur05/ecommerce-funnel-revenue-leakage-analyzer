@@ -1,0 +1,23 @@
+# ============================================================
+# E-Commerce Funnel & Revenue Leakage Analyzer
+# Requirements — install with: pip install -r requirements.txt
+# ============================================================
+
+# Data loading, cleaning, merging, grouping
+pandas>=2.0.0
+
+# Chart drawing and saving
+matplotlib>=3.7.0
+
+# Styled charts and heatmaps
+seaborn>=0.12.0
+
+# Numeric operations (used internally by pandas/matplotlib)
+numpy>=1.24.0
+
+# Interactive notebook environment
+jupyterlab>=4.0.0
+
+# PostgreSQL connection (for optional SQL extension of project)
+psycopg2-binary>=2.9.0
+sqlalchemy>=2.0.0
